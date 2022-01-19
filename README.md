@@ -1,6 +1,6 @@
 # PORTAFOLIO
 
-## Portafolio Peronal hecho en REACT 
+## Portafolio Personal hecho en REACT 
 
 
 ***Como Empezar*** 
